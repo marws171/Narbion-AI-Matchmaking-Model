@@ -70,9 +70,9 @@ The model was tested using an 80/20 train-test split and validated through class
 ---
 
 # 🤝 Acknowledgments
-- Kaggle (Elo Score Data)
-- Saudi Open Data Platform
-- Ministry of Sports (KSA)
+- Kaggle ([Elo Score Data](https://www.kaggle.com/datasets/saurabhshahane/major-league-baseball-dataset))
+- [Saudi Open Data Platform](https://open.data.gov.sa/ar/datasets/view/9f1313e2-26c2-41cf-a024-17e4d39753b3)
+- Ministry of Sports (KSA) [Data](https://open.data.gov.sa/ar/datasets/view/9f1313e2-26c2-41cf-a024-17e4d39753b3/resources)
 
 
 
